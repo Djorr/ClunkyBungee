@@ -1,5 +1,6 @@
 # ClunkyBungee
 
+ClunkyBungee is a working fork of **BungeeGuard** it does the same and works on all versions. Currently BungeeGuard isn't working for many people and we thought let's fix this and give it another name.
 
 ## The problem
 BungeeCord installations are **insecure by default**, and require additinal firewall rules to be configured (using iptables or otherwise) to prevent malicious users from bypassing the proxy and connecting using any uuid/username they choose.
