@@ -1,0 +1,15 @@
+name: ClunkyBungee
+version: ${project.version}
+description: A plugin-based security/firewall solution for BungeeCord proxies.
+author: RubixDevelopment
+load: STARTUP
+
+main: nl.rubixstudios.clunkybungee.spigot.ClunkyBungeePlugin
+softdepend: [ProtocolLib]
+api-version: 1.13
+
+commands:
+  clunkybungee:
+    description: Reloads the configuration
+    permission: clunkybungee.reload
+    usage: /clunkybungee reload

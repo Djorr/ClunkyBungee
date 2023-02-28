@@ -1,0 +1,5 @@
+name: ClunkyBungee
+version: ${project.version}
+description: A plugin-based security/firewall solution for BungeeCord proxies.
+author: RubixDevelopment
+main: nl.rubixstudios.clunkybungee.bungee.ClunkyBungee
